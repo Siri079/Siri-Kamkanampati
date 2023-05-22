@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Siri-Kamkanampati
-- 👀 I’m interested in Coding and App&Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Coding and Web Development
 - 💞️ I’m looking to collaborate on Projects related to web development 
 - 📫 How to reach me https://www.linkedin.com/in/siri-kamkanampati-391669202/
 
