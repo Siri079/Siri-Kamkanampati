@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siri-Kamkanampati
 - 👀 I’m interested in Coding and Web Development
 - 💞️ I’m looking to collaborate on Projects related to web development 
-- 📫 How to reach me https://www.linkedin.com/in/siri-kamkanampati-391669202/
+- 📫 How to reach me https://www.linkedin.com/in/siri-kamkanampati/
 
 <!---
 Siri-Kamkanampati/Siri-Kamkanampati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
