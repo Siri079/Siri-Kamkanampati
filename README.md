@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/siri-kamkanampati"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-   <a href = ""><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
+   <a href ="https://auth.geeksforgeeks.org/user/siri1415/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
 </p>
 
 ## Languages and Tools:
