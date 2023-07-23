@@ -16,14 +16,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Siri079?tab=followers"><img src="https://img.shields.io/github/followers/Siri079?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h1 align="center">Hello Everyone</h1>
-<h3 align="center">I'm a 3rd year B.Tech student, from NIT JAMSHEDPUR.</h3>
+<h3 align="center">Currently Pursuing BTech 4th year in NIT Jamshedpur .</h3>
 
 
 ##  About Me
 
--  I have solved 1000+ questions based on Data Structures and Algorithms in various platforms like Leetcode, GeeksforGeeks, Codeforces, Codechef, HackerRank, etc.
-
--  I am enthusiastic about web development and I have created full stack MERN websites. 
+-  I have solved 500+ questions based on Data Structures and Algorithms in various platforms like GeeksforGeeks,Codechef.
 
 
 ## Connect with me:
