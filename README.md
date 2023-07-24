@@ -16,12 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ##  About Me
-- 👋 Hi, I’m @Siri-Kamkanampati
+- 👋 Hi there, I’m Siri Kamkanampati
 - 👀 I’m interested in Coding and Web Development
-- 💞️ I’m looking to collaborate on Projects related to web development 
+- 💻 Looking to collaborate on Projects related to full stack web development 
 - 📫 How to reach me saisirikamkanampati@gmail.com
 
--  I have solved 500+ questions based on Data Structures and Algorithms in various platforms like GeeksforGeeks,Codechef,Coding Ninjas.
+-  I have solved around 500+ questions based on Data Structures and Algorithms in various platforms like GeeksforGeeks,Codechef,Coding Ninjas.
 
 
 ## Connect with me:
@@ -50,11 +50,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siri079&show_icons=true&locale=en&layout=compact" alt="siri079" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siri079&show_icons=true&locale=en" alt="siri079" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siri079&" alt="siri079" /></p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
