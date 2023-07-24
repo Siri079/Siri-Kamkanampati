@@ -28,14 +28,13 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/siri-kamkanampati"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-   <a href ="https://auth.geeksforgeeks.org/user/siri1415/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
+   <a href ="https://auth.geeksforgeeks.org/user/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.icons8.com/color/48/undefined/GeeksforGeeks.png"/></a>
 </p>
 
 ## Languages and Tools:
 
 <p align="left">
-<a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-logo.png"/> </a>
-<a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
