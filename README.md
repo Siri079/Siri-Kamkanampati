@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## Views and Followers
+## Views
 <a href="https://github.com/Siri079/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Siri079">
 </a>
