@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hello Everyone</h1>
-<h3 align="center">Currently Pursuing BTech 4th year in Electronics and Communication Engineering at NIT Jamshedpur .</h3>
+<h3 align="center">Currently Pursuing BTech in Electronics and Communication Engineering at NIT Jamshedpur .</h3>
 
 
 ##  About Me
